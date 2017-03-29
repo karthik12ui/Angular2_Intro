@@ -1,10 +1,5 @@
-Angular 2 Fundamentals Course
+Angular 2 Application
 ========================
-This is the getting started package for the Pluralsight course on Angular 2 Fundamentals found here: http://app.pluralsight.com/courses/angular-fundamentals
-
-**Course Status**
-
-The course is currently up-to-date.
 
 
 Getting Started
@@ -260,7 +255,3 @@ and method for Search Service
  searchSessions(searchTerm){
         this.eventService.searchSessions(searchTerm).subscribe(sessions => this.foundSessions = sessions)
     }
-    
-
-#   A n g u l a r 2 _ I n t r o  
- 
